@@ -8,7 +8,7 @@
 
   📚 Estudando HTML, CSS e Javascript.
 
-![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=NathanGbl&show_icons=true&theme=algolia)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanGbl&layout=donut&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=NathanGbl&show_icons=true&theme=algolia)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanGbl&layout=donut&theme=algolia)](https://github.com/NathanGbl/github-readme-stats)
 
 <div><br>
   Linguagens que utilizo:
