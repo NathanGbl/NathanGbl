@@ -1,12 +1,10 @@
 <h1 align="center">Bem vindo ao meu perfil!</h1>
 
+  Futuro desenvolvedor Back-end que gosta de aprender tecnologias novas e busca sempre aprimorar suas habilidades por meio de projetos práticos.
+
   Atualmente estou:
   
   🏫 Cursando Ciência da Computação;
-
-  🔍 Descobrindo qual área de TI mais gosto;
-
-  📚 Estudando HTML, CSS e Javascript.
 
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=NathanGbl&show_icons=true&theme=algolia)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanGbl&layout=donut&theme=algolia)](https://github.com/NathanGbl/github-readme-stats)
 
